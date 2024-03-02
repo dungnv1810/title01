@@ -1,0 +1,9 @@
+.services{
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 10px auto;
+    /* position: absolute;
+    z-index: 3; */
+}
